@@ -285,6 +285,7 @@ ramips-mt7621
 
   - EdgeRouter X
   - EdgeRouter X-SFP
+  - EdgePoint R6
 
 sunxi
 ^^^^^
